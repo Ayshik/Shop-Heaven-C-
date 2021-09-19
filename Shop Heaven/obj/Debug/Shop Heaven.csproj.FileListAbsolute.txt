@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\bin\Debug\Shop Heaven.exe.config
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\bin\Debug\Shop Heaven.exe
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\bin\Debug\Shop Heaven.pdb
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop Heaven.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.Form1.resources
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.panel.resources
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop Heaven.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop Heaven.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop Heaven.exe
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop Heaven.pdb
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.updatedelete.resources
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.Additem.resources
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.order.resources
+C:\Users\ASUS\source\repos\Shop Heaven\Shop Heaven\obj\Debug\Shop_Heaven.checkout.resources
